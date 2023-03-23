@@ -1,1 +1,16 @@
-com.HubLawtanApp3.qooapphelpergamestoreapptips
+{
+            "ads": {"network":"applovin","url":""},
+            "reword": {"items":""},
+            
+            "fan": {
+            "banner":"",
+            "inter":"",
+            "nativ":"",
+            "reword":""},
+            
+            "applovin": {
+            "banner":"09f289b0e0a11578",
+            "inter":"38a8d8809c7b4a18",
+            "nativ":"cfceb8d6d543211c",
+            "reword":"ec7bfa91778d1ac7"}
+            }
